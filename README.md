@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer and Fullstack developer working at Codefi Labs</h3>
 
 - 🔭 I’m currently working on **Zanzipay**
-
+- I build scalable mobile apps📱and web apps💻 for clients.
 - 📫 How to reach me **kingkxkong@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
