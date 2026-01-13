@@ -6,6 +6,7 @@
 - 📫 How to reach me **kingkxkong@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<strong> https://x.com/kingkong8o </strong>
 <p align="left">
 </p>
 
