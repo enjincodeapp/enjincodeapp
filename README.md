@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Frankie</h1>
 <h3 align="center">A passionate Software Engineer and Fullstack developer working at Codefi Labs</h3>
 
-- 🔭 I’m currently building **ZanziPay** and  **KoraBookings**
-- I build scalable consumer mobile apps📱and web apps💻 for clients.
+- 🔭 I’m currently building **LearnIgbo**, **PayPoint** and  **KoraBookings**
+- I build scalable consumer mobile apps📱and web apps💻 for business clients.
 - 📫 How to reach me **kingkxkong@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
